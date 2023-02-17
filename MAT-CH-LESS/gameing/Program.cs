@@ -16,7 +16,7 @@ namespace gameing
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new createaccount());
+            Application.Run(new login());
         }
     }
 }
